@@ -3,7 +3,7 @@
 ## 📜 Certifications
 
 ✅ **Elements of AI by University of Helsinki**  
-🔗 [Verify Here](https://certificates.mooc.fi/validate/j0yihkpk8m)  
+🔗 [Verify Here](https://certificates.mooc.fi/validate/j0yikhpk8m)  
 
 ✅ **Red Hat System Administration I (RH124)**  
 🔗 [Verify Here](https://rha.ole.redhat.com/rha/api/certificates/attendance/uuid/35bb2a83-ef0f-44eb-910d-e8474503cf62)  
