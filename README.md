@@ -1,7 +1,5 @@
 # 🎓 My Certifications
 
-## 📜 Certifications
-
 ✅ **Elements of AI by University of Helsinki**  
 🔗 [Verify Here](https://certificates.mooc.fi/validate/j0yikhpk8m)  
 
